@@ -1,0 +1,14 @@
+img {
+    width: 380px;
+}
+
+button {
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    background: #121212;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
